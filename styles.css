@@ -1,0 +1,46 @@
+.centered
+{
+  text-align: center;
+}
+.large
+{
+  font-size:30px;
+}
+.small
+{
+  font-size:small;
+}
+.medium
+{
+  font-size:medium;
+}
+.centeredLeft
+{
+  text-align:left;
+}
+.centeredRight
+{
+  text-align:right;
+}
+.background2
+{
+  background-color:#128EA4;
+  color:black;
+}
+.background3
+{
+  background-color:#0878BC;
+    color: black;
+}
+
+
+header.large
+{
+   font-size:60px;
+}
+
+body.centered
+{
+  background-color:lightblue;
+  color:black;
+}
